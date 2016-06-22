@@ -13,6 +13,7 @@
 
 app
 app/*
+node_modules
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
